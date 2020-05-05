@@ -27,8 +27,15 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 
 ## Stretch
 Stretch Review questions: 
-    1. What is the difference between an inline element and a block element?
+    1. What is the difference between an inline element and a block element? 
+
+    * the inline element is opening and closing tag, while a block element always start on a new line.
+     
     2. What happens when an element is positioned absolutely? 
+    
+     * an element whose computed position value is absolute or fixed.
+
+
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the fix for the box model? 
